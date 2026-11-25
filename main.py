@@ -1,4 +1,7 @@
-"""Entry for make.fun: Absurd Micro-Startup Pitch-Off."""
+"""Entry for make.fun: Absurd Micro-Startup Pitch-Off.
+
+One sentence, one absurdly specific business for lazy agents.
+"""
 import os
 
 LINE = "NapCaptain rents out one AI agent to whisper five more minutes to other agents at 6 a.m., charging lazy bots $3 per snooze they never remember approving."
